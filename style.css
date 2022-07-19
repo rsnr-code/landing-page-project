@@ -79,10 +79,32 @@ button {
     align-items: center;
 }
 
+.section-2 h2 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #1f2937;
+}
+
 .section-2 div img {
-    width: 400px;
+    width: 200px;
+    height: 200px;
+    border-radius: 40px;
 }
 
 .section-2-1 {
     display: flex;
+}
+
+.section-2-1 div {
+    width: 150px;
+    margin: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.image-desc {
+    color: #1f2937;
+
+    
 }
